@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a complete relational database design and querying for a bookstore management system. It covers creating tables, establishing relationships, and writing SQL queries to analyze and retrieve meaningful business insights.
+This project demonstrates a complete relational database design and querying for a bookstore management system. It covers creating tables, establishing relationships, and writing SQL queries to analyze and retrieve meaningful insights.
 
 ---
 
